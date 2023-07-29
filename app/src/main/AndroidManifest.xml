@@ -13,8 +13,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyTodoList"
         tools:targetApi="31">
+        <activity android:name=".ui.screen.detail.TodoDetailActivity"/>
         <activity
-            android:name=".ui.screen.home.MainActivity"
+            android:name=".ui.screen.home.HomeActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.MyTodoList">
