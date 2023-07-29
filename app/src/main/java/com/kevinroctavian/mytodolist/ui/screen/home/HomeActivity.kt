@@ -1,4 +1,4 @@
-package com.kevinroctavian.mytodolist
+package com.kevinroctavian.mytodolist.ui.screen.home
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
